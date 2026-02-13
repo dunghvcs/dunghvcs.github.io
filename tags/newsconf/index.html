@@ -1,6 +1,90 @@
 <!DOCTYPE html><html lang="en-gb"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Conference Events - dunghv.github.io</title><meta name="robots" content="noindex, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="alternate" type="application/atom+xml" href="https://dunghvcs.github.io/feed.xml" title="dunghv.github.io - RSS"><link rel="alternate" type="application/json" href="https://dunghvcs.github.io/feed.json" title="dunghv.github.io - JSON"><meta property="og:title" content="Conference Events - dunghv.github.io "><meta property="og:image" content="https://dunghvcs.github.io/media/website/tinh1.jpg"><meta property="og:image:width" content="1280"><meta property="og:image:height" content="586"><meta property="og:site_name" content="dunghv.github.io"><meta property="og:description" content=""><meta property="og:url" content="https://dunghvcs.github.io/tags/newsconf/"><meta property="og:type" content="website"><link rel="shortcut icon" href="https://dunghvcs.github.io/media/website/CVIS.png" type="image/x-icon"><link rel="stylesheet" href="https://dunghvcs.github.io/assets/css/style.css?v=c63025cbd02863b9f7832a316e4fd49a"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"dunghv.github.io","url":"https://dunghvcs.github.io/"}</script><noscript><style>img[loading] {
                     opacity: 1;
-                }</style></noscript><meta name="google-site-verification" content="M_Rg_xJ87RXCGmMfdbThkCZq_Vf2d2dgySWK4LY3BB8"><style>/* Cấu hình khung hiển thị slider */
+                }</style></noscript><meta name="google-site-verification" content="M_Rg_xJ87RXCGmMfdbThkCZq_Vf2d2dgySWK4LY3BB8"><style>/* --- CẤU HÌNH MENU --- */
+  body {
+    margin: 0; /* Xóa khoảng trắng thừa của trình duyệt */
+    padding: 0;
+  }
+
+  /* Khung bao quanh Menu */
+  .my-custom-navbar {
+    background-color: #008000; /* Màu xanh lá cây đậm */
+    color: white;
+    display: flex;
+    justify-content: space-between; /* Logo trái, Menu phải */
+    align-items: center;
+    padding: 0 20px;
+    height: 60px; /* Chiều cao menu */
+    position: sticky; /* Dính menu lên trên cùng khi cuộn (tùy chọn) */
+    top: 0;
+    z-index: 1000; /* Luôn nổi trên các thành phần khác */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    font-family: Arial, sans-serif;
+  }
+
+  /* Phần Logo */
+  .nav-logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-logo img {
+      height: 40px; /* Chiều cao logo ảnh */
+      margin-right: 10px;
+      background: white; /* Nền trắng cho logo nếu cần */
+      padding: 2px;
+      border-radius: 4px;
+  }
+
+  /* Danh sách link menu */
+  .nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+  /* Từng mục link */
+  .nav-links li {
+    margin-left: 20px;
+  }
+
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 15px;
+    transition: 0.3s;
+    border-radius: 4px;
+  }
+
+  /* Hiệu ứng khi di chuột vào link */
+  .nav-links a:hover {
+    background-color: rgba(255,255,255,0.2); /* Nền sáng lên */
+  }
+
+  /* --- RESPONSIVE CHO ĐIỆN THOẠI --- */
+  @media (max-width: 768px) {
+    .my-custom-navbar {
+      flex-direction: column; /* Xếp dọc trên điện thoại */
+      height: auto;
+      padding: 10px;
+    }
+    
+    .nav-links {
+      margin-top: 10px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    
+    .nav-links li {
+      margin: 5px;
+    }
+  }</style><style>/* Cấu hình khung hiển thị slider */
   .my-slider-container {
     width: 100%; /* Chiều rộng luôn là 100% */
     position: relative;
@@ -69,7 +153,7 @@
   /* Hiệu ứng khi di chuột vào nút */
   .prev:hover, .next:hover {
     background-color: rgba(0,0,0,0.8);
-  }</style><div class="my-slider-container"><div class="my-slides"><img src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 1"> <img src="https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 2"> <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 3"> <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 4"> <img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 5"></div><button class="prev" onclick="moveSlide(-1)">&#10094;</button> <button class="next" onclick="moveSlide(1)">&#10095;</button></div><script>let slideIndex = 0;
+  }</style></head><body class="tag-template"><nav class="my-custom-navbar"><div class="nav-logo"><img src="https://via.placeholder.com/100x50?text=CVIS" alt="Logo"> <span>Van-Dung Hoang</span></div><ul class="nav-links"><li><a href="/">Home</a></li><li><a href="/tags/newsconf">news</a></li><li><a href="/tags/courses">courses</a></li><li><a href="/tags/research">Research</a></li><li><a href="/about">About</a></li></ul></nav><div class="my-slider-container"><div class="my-slides"><img src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 1"> <img src="https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 2"> <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 3"> <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 4"> <img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Ảnh 5"></div><button class="prev" onclick="moveSlide(-1)">&#10094;</button> <button class="next" onclick="moveSlide(1)">&#10095;</button></div><script>let slideIndex = 0;
   
   // Hàm chuyển slide
   function moveSlide(n) {
@@ -94,7 +178,7 @@
   // Tự động chạy sau mỗi 5 giây
   setInterval(() => {
     moveSlide(1);
-  }, 5000);</script></head><body class="tag-template"><header class="top js-header"><a class="logo" href="https://dunghvcs.github.io/">dunghv.github.io</a><nav class="navbar js-navbar"><button class="navbar__toggle js-toggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li><a href="https://dunghvcs.github.io/" target="_self">Home</a></li><li class="active"><a href="https://dunghvcs.github.io/tags/newsconf/" target="_self">News</a></li><li><a href="https://dunghvcs.github.io/tags/courses/" target="_self">Courses</a></li><li><a href="https://dunghvcs.github.io/tags/research/" target="_self">Research</a></li><li><a href="https://dunghvcs.github.io/publications.html" target="_self">Publications</a></li><li><a href="https://dunghvcs.github.io/" target="_self">Dataset</a></li><li><a href="https://dunghvcs.github.io/get-in-tourch.html" target="_self">Contact</a></li><li><a href="https://dunghvcs.github.io/about.html" target="_self">About</a></li></ul></nav></header><main class="page page--tag"><div class="hero hero--noimage"><header class="hero__content"><div class="wrapper"><h1>Conference Events</h1></div></header></div><div class="wrapper feed"><article class="feed__item feed__item--centered"><div class="feed__content"><header><h2 class="feed__title"><a href="https://dunghvcs.github.io/aciids2017-kanazawa-japan.html">ACIIDS2017, Kanazawa, Japan</a></h2></header><p>ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this conference was held during 3-5 April 2017 in Kaga, Japan. The aim of the conference is to provide an internationally respected forum for scientific research&hellip;</p></div></article><article class="feed__item feed__item--centered"><div class="feed__content"><header><h2 class="feed__title"><a href="https://dunghvcs.github.io/aciids2016-danang-vietnam.html">ACIIDS2016, Danang, Vietnam</a></h2></header><p>ACIIDS 2016 is an international scientific conference for research in the field of intelligent information and database systems, to be held during 14-16 March, 2016 in Da Nang, Vietnam. The aim of the conference is to provide an internationally respected forum for scientific research in&hellip;</p></div></article></div></main><footer class="footer"><div class="wrapper"><div class="footer__copyright"><p>Copyright@CVISLab</p></div><button id="backToTop" class="footer__bttop" aria-label="Back to top" title="Back to top"><svg width="20" height="20"><use xlink:href="https://dunghvcs.github.io/assets/svg/svg-map.svg#toparrow"/></svg></button></div></footer><script defer="defer" src="https://dunghvcs.github.io/assets/js/scripts.min.js?v=d0fc1030089a37f93a2d51bf6d07565c"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.top'};</script><script>var images = document.querySelectorAll('img[loading]');
+  }, 5000);</script><header class="top js-header"><a class="logo" href="https://dunghvcs.github.io/">dunghv.github.io</a><nav class="navbar js-navbar"><button class="navbar__toggle js-toggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li><a href="https://dunghvcs.github.io/" target="_self">Home</a></li><li class="active-parent has-submenu"><a href="https://dunghvcs.github.io/tags/newsconf/" target="_self" aria-haspopup="true">News</a><ul class="navbar__submenu level-2" aria-hidden="true"><li class="active"><a href="https://dunghvcs.github.io/tags/newsconf/" target="_self">Conference events</a></li><li><a href="https://dunghvcs.github.io/tags/seminar/" target="_self">Seminars</a></li></ul></li><li><a href="https://dunghvcs.github.io/tags/courses/" target="_self">Courses</a></li><li><a href="https://dunghvcs.github.io/tags/research/" target="_self">Research</a></li><li><a href="https://dunghvcs.github.io/publications.html" target="_self">Publications</a></li><li><a href="https://dunghvcs.github.io/" target="_self">Dataset</a></li><li><a href="https://dunghvcs.github.io/get-in-tourch.html" target="_self">Contact</a></li><li><a href="https://dunghvcs.github.io/about.html" target="_self">About</a></li></ul></nav></header><main class="page page--tag"><div class="hero hero--noimage"><header class="hero__content"><div class="wrapper"><h1>Conference Events</h1></div></header></div><div class="wrapper feed"><article class="feed__item feed__item--centered"><div class="feed__content"><header><h2 class="feed__title"><a href="https://dunghvcs.github.io/aciids2017-kanazawa-japan.html">ACIIDS2017, Kanazawa, Japan</a></h2></header><p>ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this conference was held during 3-5 April 2017 in Kaga, Japan. The aim of the conference is to provide an internationally respected forum for scientific research&hellip;</p></div></article><article class="feed__item feed__item--centered"><div class="feed__content"><header><h2 class="feed__title"><a href="https://dunghvcs.github.io/aciids2016-danang-vietnam.html">ACIIDS2016, Danang, Vietnam</a></h2></header><p>ACIIDS 2016 is an international scientific conference for research in the field of intelligent information and database systems, to be held during 14-16 March, 2016 in Da Nang, Vietnam. The aim of the conference is to provide an internationally respected forum for scientific research in&hellip;</p></div></article></div></main><footer class="footer"><div class="wrapper"><div class="footer__copyright"><p>Copyright@CVISLab</p></div><button id="backToTop" class="footer__bttop" aria-label="Back to top" title="Back to top"><svg width="20" height="20"><use xlink:href="https://dunghvcs.github.io/assets/svg/svg-map.svg#toparrow"/></svg></button></div></footer><script defer="defer" src="https://dunghvcs.github.io/assets/js/scripts.min.js?v=d0fc1030089a37f93a2d51bf6d07565c"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.top'};</script><script>var images = document.querySelectorAll('img[loading]');
         for (var i = 0; i < images.length; i++) {
             if (images[i].complete) {
                 images[i].classList.add('is-loaded');
