@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://dunghvcs.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://dunghvcs.github.io/</loc>
+</url>
+<url>
+<loc>https://dunghvcs.github.io/aciids2016-danang-vietnam.html</loc>
+<lastmod>2026-02-13T09:44:13+07:00</lastmod>
+</url>
+<url>
+<loc>https://dunghvcs.github.io/aciids2017-kanazawa-japan.html</loc>
+<lastmod>2026-02-13T09:29:56+07:00</lastmod>
+</url>
+<url>
+<loc>https://dunghvcs.github.io/development-of-an-intelligent-system-for-ambient-understanding-applied-to-autonomous-navigation-in-outdoor-environment.html</loc>
+<lastmod>2026-02-13T10:22:03+07:00</lastmod>
+<image:image>
+<image:loc>https://dunghvcs.github.io/media/posts/5//gallery/NF1-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://dunghvcs.github.io/media/posts/5//gallery/NF2-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://dunghvcs.github.io/publications.html</loc>
+<lastmod>2026-02-13T09:23:27+07:00</lastmod>
+</url>
+<url>
+<loc>https://dunghvcs.github.io/van-dung-hoang.html</loc>
+<lastmod>2026-02-13T09:06:01+07:00</lastmod>
+</url>
+</urlset>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>dunghv.github.io</title>
+    <link href="https://dunghvcs.github.io/feed.xml" rel="self" />
+    <link href="https://dunghvcs.github.io" />
+    <updated>2026-02-13T10:22:03+07:00</updated>
+    <author>
+        <name>Van-Dung Hoang</name>
+    </author>
+    <id>https://dunghvcs.github.io</id>
+
+    <entry>
+        <title>[NAFOSTED] Project ambient understanding</title>
+        <author>
+            <name>Van-Dung Hoang</name>
+        </author>
+        <link href="https://dunghvcs.github.io/development-of-an-intelligent-system-for-ambient-understanding-applied-to-autonomous-navigation-in-outdoor-environment.html"/>
+        <id>https://dunghvcs.github.io/development-of-an-intelligent-system-for-ambient-understanding-applied-to-autonomous-navigation-in-outdoor-environment.html</id>
+
+        <updated>2026-02-13T10:18:33+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <h2><span style="color: #169179;"><strong><span style="color: #169179;">Development of an intelligent system for ambient understanding applied to autonomous navigation in outdoor environment.</span>  </strong></span></h2>
+<p>This project proposes and studies a novel method that improves efficiency of scene understanding, which is useful for autonomous navigation, based on the multiple sensors-based. The method is expected to provide the better scene understanding, which then allows a robot to avoid obstacles in front of its navigation. The method consists of some stages. First, a path planning is investigated, which concerns about the findings of the efficient path to facilitate the autonomous driving. The second is referred to the problem of the motion estimation and the localization prediction of running vehicle. It is addressed based on applying the fusion of cameras, LRF and GPS devices. Our research proposes a new method that uses the minimal set of parameters consisting of the geometrical constraints for estimating the 3D motion of vehicle using cameras and LRF. The cumulative errors of visual odometry are excluded using the GPS-based correction relied on the maximum likelihood estimation in particle filter. The semantic of object classification and detection are also studied. The obstacle detection, place recognition techniques are used as a solution to assisting the autonomous driver. We focus on dealing with detecting obstacles that commonly occur such as pedestrians and vehicles. The place recognition is also considered for scene understanding and mapping. We introduce improving of feature descriptors, deformable part model as well hybrid boosting SVM and neural network. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2><span style="color: #169179;"><strong><span style="color: #169179;">Development of an intelligent system for ambient understanding applied to autonomous navigation in outdoor environment.</span>  </strong></span></h2>
+<p>This project proposes and studies a novel method that improves efficiency of scene understanding, which is useful for autonomous navigation, based on the multiple sensors-based. The method is expected to provide the better scene understanding, which then allows a robot to avoid obstacles in front of its navigation. The method consists of some stages. First, a path planning is investigated, which concerns about the findings of the efficient path to facilitate the autonomous driving. The second is referred to the problem of the motion estimation and the localization prediction of running vehicle. It is addressed based on applying the fusion of cameras, LRF and GPS devices. Our research proposes a new method that uses the minimal set of parameters consisting of the geometrical constraints for estimating the 3D motion of vehicle using cameras and LRF. The cumulative errors of visual odometry are excluded using the GPS-based correction relied on the maximum likelihood estimation in particle filter. The semantic of object classification and detection are also studied. The obstacle detection, place recognition techniques are used as a solution to assisting the autonomous driver. We focus on dealing with detecting obstacles that commonly occur such as pedestrians and vehicles. The place recognition is also considered for scene understanding and mapping. We introduce improving of feature descriptors, deformable part model as well hybrid boosting SVM and neural network. </p>
+
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://dunghvcs.github.io/media/posts/5//gallery/NF1.png" data-size="956x916"><img loading="lazy" src="https://dunghvcs.github.io/media/posts/5//gallery/NF1-thumbnail.png" alt="" width="720" height="690"></a></figure>
+<figure class="gallery__item"><a href="https://dunghvcs.github.io/media/posts/5//gallery/NF2.png" data-size="677x540"><img loading="lazy" src="https://dunghvcs.github.io/media/posts/5//gallery/NF2-thumbnail.png" alt="" width="677" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ACIIDS2017, Kanazawa, Japan</title>
+        <author>
+            <name>Van-Dung Hoang</name>
+        </author>
+        <link href="https://dunghvcs.github.io/aciids2017-kanazawa-japan.html"/>
+        <id>https://dunghvcs.github.io/aciids2017-kanazawa-japan.html</id>
+
+        <updated>2026-02-13T09:29:56+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this conference was held during 3-5 April 2017 in Kaga, Japan. The aim of the conference is to provide an internationally respected forum for scientific research in the technologies and applications of intelligent information and database systems.</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">Participant from ISLab is Dr. Van-Dung Hoang with a contribution "Boosting Discriminative Models for Activity Detection Using Local Feature Descriptors"</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">Over all, everything is well organized.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://lh3.googleusercontent.com/sitesv/APaQ0SSZW6CB0pS_VufyLFH-WNUB1VaWnzvEA8Mqv-xQbBzOshNQ33B9KQ8ctnKyQpCGD63bcsNCcQSWjl2lhO5V9VFXowA7yKRjO2kX7VI1pXc4oysIGnu_K1E2zYPfOisPLtLw-DSPqUSng5ibj7SHVjJsPxh5V53kmC2FEKOomTBSh_qya77m5uzIB_QUZ692T1Vco0esaHW8PJIHN6FbUCVaqQaoxYOrL1-gDy4=w1280" alt="" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ACIIDS2016, Danang, Vietnam</title>
+        <author>
+            <name>Van-Dung Hoang</name>
+        </author>
+        <link href="https://dunghvcs.github.io/aciids2016-danang-vietnam.html"/>
+        <id>https://dunghvcs.github.io/aciids2016-danang-vietnam.html</id>
+
+        <updated>2026-02-13T09:29:15+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    ACIIDS 2016 is an international scientific conference for research in the field of intelligent information and database systems, to be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">ACIIDS 2016 is an international scientific conference for research in the field of intelligent information and database systems, to be held during 14-16 March, 2016 in Da Nang, Vietnam.</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">The aim of the conference is to provide an internationally respected forum for scientific research in the technologies and applications of intelligent information and database systems.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://lh3.googleusercontent.com/sitesv/APaQ0SRTap8R7swosSpnHJqnm1G3aSM-Uh-eyybi2zkAnHXcHx-1vkDn-VVxLGiR-ZlSUIYpMLrcGU3Ia6ZX1aKS1WqUCMoEkOiHbnXjlf2nXvjfyeVhoe_AGqbslew2qtX51vRrOAlTpytlzqfmKfmVk9TtZu4Iw3b8e4hFSrj5iPqv8yDjHHFJ8x3WGz50PRDToXAGVeJ7yRld5IXNfdE-ltS3-YsTAsFp1YOi4lg=w1280" alt="" data-is-external-image="true"></figure>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">The conference is hosted by Vietnam-Korea Friendship Information Technology College (Viethanit), Vietnam and jointly organized by Wrocław University of Technology, Poland in cooperation with IEEE SMC Technical Committee on Computational Collective Intelligence, Bina Nusantara University, Indonesia, Ton DucThang University, Vietnam, and QuangBinh University, Vietnam.</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">Participant from ISLab is Dr. Van-Dung Hoang with the contributions: "Accelerative Object Classification Using Cascade Structure for Vision Based Security Monitoring Systems" and "Multiscale Car Detection Using Oriented Gradient Feature and Boosting Machine"</span></p>
+<figure class="post__image"><span class="C9DxTc ">Over all, everything is well organized.</span><img  src="https://lh3.googleusercontent.com/sitesv/APaQ0STP4i679gYNMFPvDrlLKjkXjMKPosGk1QRAkdK9hhj_9VS_1EXXrjiTU2s0z1x2ti7TwxMVIFbBdpsDszMnTFUaIkLuIB2VDrV14yFMufXC6nGNu52EfNiAS7f_JK_FEi7NoiAO-MqUNxtR6mZRkW2eMvt5y50TDtaf5BPiYkwLLFlUurHF4l9Aq7V3jAAFAoliIygtYCiToV3souQ0JJ5FsXK2oITWDUAQ=w1280" alt="" width="567" height="358" data-is-external-image="true"></figure><figure class="post__image"><img loading="lazy"  src="https://lh3.googleusercontent.com/sitesv/APaQ0SRTap8R7swosSpnHJqnm1G3aSM-Uh-eyybi2zkAnHXcHx-1vkDn-VVxLGiR-ZlSUIYpMLrcGU3Ia6ZX1aKS1WqUCMoEkOiHbnXjlf2nXvjfyeVhoe_AGqbslew2qtX51vRrOAlTpytlzqfmKfmVk9TtZu4Iw3b8e4hFSrj5iPqv8yDjHHFJ8x3WGz50PRDToXAGVeJ7yRld5IXNfdE-ltS3-YsTAsFp1YOi4lg=w1280" alt="" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
