@@ -3,12 +3,85 @@
     <title>dunghv.github.io</title>
     <link href="https://dunghvcs.github.io/feed.xml" rel="self" />
     <link href="https://dunghvcs.github.io" />
-    <updated>2026-02-13T10:22:03+07:00</updated>
+    <updated>2026-02-13T11:56:48+07:00</updated>
     <author>
         <name>Van-Dung Hoang</name>
     </author>
     <id>https://dunghvcs.github.io</id>
 
+    <entry>
+        <title>Digital Image Processing</title>
+        <author>
+            <name>Van-Dung Hoang</name>
+        </author>
+        <link href="https://dunghvcs.github.io/digital-image-processing.html"/>
+        <id>https://dunghvcs.github.io/digital-image-processing.html</id>
+            <category term="Courses"/>
+
+        <updated>2026-02-13T11:56:48+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Digital Image Processing: Chapter 1: Introduction to image processing Chapter 2: Image enhancement in space domain Chapter 3: Image enhancement in frequency domain Chapter 4: Morphological image processing Chapter 5: Image segmentation Chapter 6: Feature extraction Chapter 7: Pattern recognition
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="CjVfdc">Digital Image Processing:<br>
+<p>Chapter 1: Introduction to image processing</p>
+<p>Chapter 2: Image enhancement in space domain</p>
+<p>Chapter 3: Image enhancement in frequency domain</p>
+<p>Chapter 4: Morphological image processing</p>
+<p>Chapter 5: Image segmentation</p>
+<p>Chapter 6: Feature extraction</p>
+<p>Chapter 7: Pattern recognition</p>
+</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/8/DIP1-2.png" alt="" width="813" height="594" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/8/responsive/DIP1-2-xs.png 640w ,https://dunghvcs.github.io/media/posts/8/responsive/DIP1-2-sm.png 768w ,https://dunghvcs.github.io/media/posts/8/responsive/DIP1-2-md.png 1024w ,https://dunghvcs.github.io/media/posts/8/responsive/DIP1-2-lg.png 1366w ,https://dunghvcs.github.io/media/posts/8/responsive/DIP1-2-xl.png 1600w ,https://dunghvcs.github.io/media/posts/8/responsive/DIP1-2-2xl.png 1920w"></figure></div>
+<div>
+<p> </p>
+</div>
+<h3 id="h.i1ci6wnis21l_l" class="CDt4Ke zfr3Q OmQG5e" dir="ltr" tabindex="-1"></h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Year end seminar </title>
+        <author>
+            <name>Van-Dung Hoang</name>
+        </author>
+        <link href="https://dunghvcs.github.io/year-end-seminar.html"/>
+        <id>https://dunghvcs.github.io/year-end-seminar.html</id>
+            <category term="Seminar"/>
+
+        <updated>2026-02-13T11:54:05+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    As we close the chapter on 2025, it is time to look back at a year filled with rigorous research, collaborative efforts, and meaningful contributions to the scientific community. This year-end seminar marks not just the passing of time, but the accumulation of knowledge and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As we close the chapter on 2025, it is time to look back at a year filled with rigorous research, collaborative efforts, and meaningful contributions to the scientific community. This year-end seminar marks not just the passing of time, but the accumulation of knowledge and the expansion of our research capabilities in <strong data-path-to-node="4" data-index-in-node="331">Artificial Intelligence, Computer Vision, and Educational Technology</strong>.</p>
+<figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/7/2025Khenthuong.jpg" alt="" width="2048" height="1365" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/7/responsive/2025Khenthuong-xs.jpg 640w ,https://dunghvcs.github.io/media/posts/7/responsive/2025Khenthuong-sm.jpg 768w ,https://dunghvcs.github.io/media/posts/7/responsive/2025Khenthuong-md.jpg 1024w ,https://dunghvcs.github.io/media/posts/7/responsive/2025Khenthuong-lg.jpg 1366w ,https://dunghvcs.github.io/media/posts/7/responsive/2025Khenthuong-xl.jpg 1600w ,https://dunghvcs.github.io/media/posts/7/responsive/2025Khenthuong-2xl.jpg 1920w"></figure>
+<p data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="0">📊 Research Projects &amp; Grants</strong> This year, our lab continued to push the boundaries of applied AI. We successfully maintained momentum on key projects focusing on:</p>
+<ul data-path-to-node="7">
+<li>
+<p data-path-to-node="7,0,0"><strong data-path-to-node="7,0,0" data-index-in-node="0">AI in Healthcare:</strong> Developing advanced diagnostic tools for medical imaging.</p>
+</li>
+<li>
+<p data-path-to-node="7,1,0"><strong data-path-to-node="7,1,0" data-index-in-node="0">Intelligent Systems:</strong> Enhancing autonomous recognition capabilities for aerial and surveillance applications.</p>
+</li>
+<li>
+<p data-path-to-node="7,2,0"><strong data-path-to-node="7,2,0" data-index-in-node="0">AI in Education:</strong> Applying deep learning to personalize and improve e-learning environments.</p>
+</li>
+</ul>
+<p data-path-to-node="8"><i data-path-to-node="8" data-index-in-node="0">(Note: You can insert the exact number of funded projects here, e.g., "We successfully executed <strong data-path-to-node="8" data-index-in-node="96">3</strong> major research grants...")</i></p>
+<p data-path-to-node="9"><strong data-path-to-node="9" data-index-in-node="0">📝 Key Publications (Journals &amp; Conferences)</strong> 2025 was a prolific year for dissemination. We are proud to have published impactful papers in reputable venues, addressing both theoretical improvements and practical applications of Deep Learning.</p>
+<p data-path-to-node="9">🤝 Community Service &amp; Leadership</p>
+<p data-path-to-node="9">These achievements would not have been possible without the dedication of our research team, graduate students, and collaborators. As we move into <strong data-path-to-node="14" data-index-in-node="157">2026</strong>, we remain committed to solving real-world problems through innovation in Artificial Intelligence.</p>
+<figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/7/YearEndParty.jpg" alt="" width="2560" height="1440" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-xs.jpg 640w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-sm.jpg 768w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-md.jpg 1024w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-lg.jpg 1366w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-xl.jpg 1600w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>[NAFOSTED] Project ambient understanding</title>
         <author>
@@ -16,6 +89,7 @@
         </author>
         <link href="https://dunghvcs.github.io/development-of-an-intelligent-system-for-ambient-understanding-applied-to-autonomous-navigation-in-outdoor-environment.html"/>
         <id>https://dunghvcs.github.io/development-of-an-intelligent-system-for-ambient-understanding-applied-to-autonomous-navigation-in-outdoor-environment.html</id>
+            <category term="Research"/>
 
         <updated>2026-02-13T10:18:33+07:00</updated>
             <summary type="html">
@@ -44,11 +118,12 @@
         </author>
         <link href="https://dunghvcs.github.io/aciids2017-kanazawa-japan.html"/>
         <id>https://dunghvcs.github.io/aciids2017-kanazawa-japan.html</id>
+            <category term="Conference Events"/>
 
         <updated>2026-02-13T09:29:56+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this&hellip;
+                    ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this conference was held during 3-5 April 2017 in Kaga, Japan. The aim of the conference is to provide an internationally respected forum for scientific research&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -67,11 +142,12 @@
         </author>
         <link href="https://dunghvcs.github.io/aciids2016-danang-vietnam.html"/>
         <id>https://dunghvcs.github.io/aciids2016-danang-vietnam.html</id>
+            <category term="Conference Events"/>
 
         <updated>2026-02-13T09:29:15+07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    ACIIDS 2016 is an international scientific conference for research in the field of intelligent information and database systems, to be&hellip;
+                    ACIIDS 2016 is an international scientific conference for research in the field of intelligent information and database systems, to be held during 14-16 March, 2016 in Da Nang, Vietnam. The aim of the conference is to provide an internationally respected forum for scientific research in&hellip;
                 ]]>
             </summary>
         <content type="html">
