@@ -3,12 +3,81 @@
     <title>dunghv.github.io</title>
     <link href="https://dunghvcs.github.io/feed.xml" rel="self" />
     <link href="https://dunghvcs.github.io" />
-    <updated>2026-02-14T10:15:14+07:00</updated>
+    <updated>2026-02-14T10:33:09+07:00</updated>
     <author>
         <name>Van-Dung Hoang</name>
     </author>
     <id>https://dunghvcs.github.io</id>
 
+    <entry>
+        <title>NAFOSTED Project 2023</title>
+        <author>
+            <name>Van-Dung Hoang</name>
+        </author>
+        <link href="https://dunghvcs.github.io/nafosted-project-2023.html"/>
+        <id>https://dunghvcs.github.io/nafosted-project-2023.html</id>
+            <category term="Researches"/>
+
+        <updated>2026-02-14T10:30:03+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Improvement of deep learning and feature extraction methods for enhancing performance of pattern recognition systems was funded by the National Foundation-NAFOSTED Today with the fast-growing of artificial intelligence (AI), intelligence systems have been strongly studied and developed accomplished outstanding results, such as in the areas of robotics, intelligent assistance systems,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="CjVfdc"><span style="color: #169179;"><span class="C9DxTc ">Improvement of deep learning and feature extraction methods for enhancing performance of pattern recognition systems was f</span><small id="h.mn4r8wg5orsm" class="zfr3Q TMjjoe CDt4Ke " dir="ltr"><span class="C9DxTc ">unded by the National Foundation-N</span><span class="C9DxTc ">AFOSTED</span></small></span></div>
+<div>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">Today with the fast-growing of artificial intelligence (AI), intelligence systems have been strongly studied and developed accomplished outstanding results, such as in the areas of robotics, intelligent assistance systems, medical image-based disease diagnosis, and so on. Developed machine learning methods for increasingly feature extraction, optimal model in terms of accuracy, processing speed have become a major research trend. Some research orientations in this subdomain include developing solutions to optimize deep learning models and learning hyperparameters for high discriminated feature extraction and outperformed pattern recognition. This project concentrates on studying and proposing novel approaches in machine learning techniques and feature extraction from images. The methods are designed to provide better pattern recognition in real datasets. Resulted solutions support intelligent decisions and suggestions such as recognizing diseases using visual data in medical diagnosis, detecting abnormal objects or dangerous behaviors in surveillance systems. We expect this research to be completed and contributed to the trend machine learning solutions that facilitate implementing and operating intelligent systems on resource-limited hardware to solve difficult data problems for the classification and recognition of complex objects and events. The result is toward AI technologies into practice application with acceptable costs.</span></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">Develop AI technology based on deep learning models for feature extraction and pattern recognition to solve specific problems in computer vision such as image classification, object detection, medical image processing, action recognition, and scene understanding for surveillance systems. </span></p>
+<figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/18/NF2.png" alt="" width="677" height="540" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/18/responsive/NF2-xs.png 640w ,https://dunghvcs.github.io/media/posts/18/responsive/NF2-sm.png 768w ,https://dunghvcs.github.io/media/posts/18/responsive/NF2-md.png 1024w ,https://dunghvcs.github.io/media/posts/18/responsive/NF2-lg.png 1366w ,https://dunghvcs.github.io/media/posts/18/responsive/NF2-xl.png 1600w ,https://dunghvcs.github.io/media/posts/18/responsive/NF2-2xl.png 1920w"></figure>
+</div>
+<h3 id="h.kujl4eg0r5ll_l" class="zfr3Q OmQG5e CDt4Ke " dir="ltr"></h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Project 2019- Melanoma Image Prediction</title>
+        <author>
+            <name>Van-Dung Hoang</name>
+        </author>
+        <link href="https://dunghvcs.github.io/project-2019-melanoma-image-prediction.html"/>
+        <id>https://dunghvcs.github.io/project-2019-melanoma-image-prediction.html</id>
+        <media:content url="https://dunghvcs.github.io/media/posts/17/Detai_CS2018_2.png" medium="image" />
+            <category term="Researches"/>
+
+        <updated>2026-02-14T10:24:27+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://dunghvcs.github.io/media/posts/17/Detai_CS2018_2.png" alt="" />
+                    Research on Deep Neural Network Techniques for Melanoma Image Prediction: Study image analysis and processing techniques, as well as artificial intelligence methods, particularly those based on large-scale data representation and deep learning approaches. Propose solutions that apply artificial intelligence techniques to image analysis and processing, specifically for image segmentation and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dunghvcs.github.io/media/posts/17/Detai_CS2018_2.png" class="type:primaryImage" alt="" /></p>
+                <p><strong>Research on Deep Neural Network Techniques for Melanoma Image Prediction:</strong></p>
+<ul>
+<li data-start="0" data-end="185">
+<p data-start="2" data-end="185">Study image analysis and processing techniques, as well as artificial intelligence methods, particularly those based on large-scale data representation and deep learning approaches.</p>
+</li>
+<li data-start="186" data-end="346">
+<p data-start="188" data-end="346">Propose solutions that apply artificial intelligence techniques to image analysis and processing, specifically for image segmentation and anomaly detection.</p>
+</li>
+<li data-start="347" data-end="410">
+<p data-start="349" data-end="410">Collect and select image datasets related to skin melanoma.</p>
+</li>
+<li data-start="411" data-end="574">
+<p data-start="413" data-end="574">Conduct experiments and evaluate image analysis and classification solutions for detecting pigmentation issues associated with melanoma, a type of skin cancer.</p>
+</li>
+<li data-start="575" data-end="681" data-is-last-node="">
+<p data-start="577" data-end="681" data-is-last-node="">Collect data, prepare research papers, present at specialized conferences, and publish research results.</p>
+</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/17/Detai_CS2018_1.png" alt="" width="576" height="724" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/17/responsive/Detai_CS2018_1-xs.png 640w ,https://dunghvcs.github.io/media/posts/17/responsive/Detai_CS2018_1-sm.png 768w ,https://dunghvcs.github.io/media/posts/17/responsive/Detai_CS2018_1-md.png 1024w ,https://dunghvcs.github.io/media/posts/17/responsive/Detai_CS2018_1-lg.png 1366w ,https://dunghvcs.github.io/media/posts/17/responsive/Detai_CS2018_1-xl.png 1600w ,https://dunghvcs.github.io/media/posts/17/responsive/Detai_CS2018_1-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Project2019-Virtual tour</title>
         <author>
@@ -44,7 +113,7 @@
         </content>
     </entry>
     <entry>
-        <title>Project 2015- Funded by the QB People&#x27;s Committee</title>
+        <title>Project 2015- Surveillance Systems</title>
         <author>
             <name>Van-Dung Hoang</name>
         </author>
@@ -57,13 +126,13 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://dunghvcs.github.io/media/posts/15/IMG_2346.jpg" alt="" />
-                    Proposal a computer vision- based surveillance system applied to secured to office building in Quang Binh province. General Objectives: To investigate and analyze the current state of technology applications in ensuring security for socio-economic development. To propose a real-time security recognition, tracking, and alert system model for office buildings. Specific&hellip;
+                    Proposal a computer vision- based surveillance system applied to secured to office building in Quang Binh province was funded by the QB People's Committee. General Objectives: To investigate and analyze the current state of technology applications in ensuring security for socio-economic development. To propose a real-time security recognition, tracking, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://dunghvcs.github.io/media/posts/15/IMG_2346.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="CjVfdc"><span class="C9DxTc ">Proposal a computer vision- based surveillance system applied to secured to office building in Quang Binh province.</span></div>
+                <div class="CjVfdc"><span class="C9DxTc ">Proposal a computer vision- based surveillance system applied to secured to office building in Quang Binh province was funded by the QB People's Committee.</span></div>
 <div>
 <p data-start="0" data-end="25"><strong data-start="0" data-end="23">General Objectives:</strong></p>
 <ul data-start="26" data-end="258">
@@ -74,6 +143,7 @@
 <p data-start="157" data-end="258">To propose a real-time security recognition, tracking, and alert system model for office buildings.</p>
 </li>
 </ul>
+<figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/15/tinh1.png" alt="" width="1038" height="1086" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/15/responsive/tinh1-xs.png 640w ,https://dunghvcs.github.io/media/posts/15/responsive/tinh1-sm.png 768w ,https://dunghvcs.github.io/media/posts/15/responsive/tinh1-md.png 1024w ,https://dunghvcs.github.io/media/posts/15/responsive/tinh1-lg.png 1366w ,https://dunghvcs.github.io/media/posts/15/responsive/tinh1-xl.png 1600w ,https://dunghvcs.github.io/media/posts/15/responsive/tinh1-2xl.png 1920w"></figure>
 <p data-start="260" data-end="286"><strong data-start="260" data-end="284">Specific Objectives:</strong></p>
 <ul data-start="287" data-end="888">
 <li data-start="287" data-end="334">
@@ -86,10 +156,7 @@
 <p data-start="377" data-end="424">Propose image feature representation methods.</p>
 </li>
 <li data-start="427" data-end="491">
-<p data-start="429" data-end="491">P</p>
-</li>
-<li data-start="427" data-end="491">
-<p data-start="429" data-end="491">ropose models for target objects to be recognized (humans).</p>
+<p data-start="429" data-end="491">Propose models for target objects to be recognized (humans).</p>
 </li>
 <li data-start="494" data-end="568">
 <p data-start="496" data-end="568">Propose artificial intelligence frameworks for training object models.</p>
@@ -289,7 +356,7 @@
         </content>
     </entry>
     <entry>
-        <title>Year end seminar </title>
+        <title>2025 Year End Seminar </title>
         <author>
             <name>Van-Dung Hoang</name>
         </author>
@@ -324,59 +391,6 @@
 <p data-path-to-node="9">🤝 Community Service &amp; Leadership</p>
 <p data-path-to-node="9">These achievements would not have been possible without the dedication of our research team, graduate students, and collaborators. As we move into <strong data-path-to-node="14" data-index-in-node="157">2026</strong>, we remain committed to solving real-world problems through innovation in Artificial Intelligence.</p>
 <figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/7/YearEndParty.jpg" alt="" width="2560" height="1440" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-xs.jpg 640w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-sm.jpg 768w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-md.jpg 1024w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-lg.jpg 1366w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-xl.jpg 1600w ,https://dunghvcs.github.io/media/posts/7/responsive/YearEndParty-2xl.jpg 1920w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>[NAFOSTED] Project ambient understanding</title>
-        <author>
-            <name>Van-Dung Hoang</name>
-        </author>
-        <link href="https://dunghvcs.github.io/development-of-an-intelligent-system-for-ambient-understanding-applied-to-autonomous-navigation-in-outdoor-environment.html"/>
-        <id>https://dunghvcs.github.io/development-of-an-intelligent-system-for-ambient-understanding-applied-to-autonomous-navigation-in-outdoor-environment.html</id>
-            <category term="Researches"/>
-
-        <updated>2026-02-13T10:18:33+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><span style="color: #169179;"><strong><span style="color: #169179;">Development of an intelligent system for ambient understanding applied to autonomous navigation in outdoor environment.</span>  </strong></span></p>
-<p>This project proposes and studies a novel method that improves efficiency of scene understanding, which is useful for autonomous navigation, based on the multiple sensors-based. The method is expected to provide the better scene understanding, which then allows a robot to avoid obstacles in front of its navigation. The method consists of some stages. First, a path planning is investigated, which concerns about the findings of the efficient path to facilitate the autonomous driving. The second is referred to the problem of the motion estimation and the localization prediction of running vehicle. It is addressed based on applying the fusion of cameras, LRF and GPS devices. Our research proposes a new method that uses the minimal set of parameters consisting of the geometrical constraints for estimating the 3D motion of vehicle using cameras and LRF. The cumulative errors of visual odometry are excluded using the GPS-based correction relied on the maximum likelihood estimation in particle filter. The semantic of object classification and detection are also studied. The obstacle detection, place recognition techniques are used as a solution to assisting the autonomous driver. We focus on dealing with detecting obstacles that commonly occur such as pedestrians and vehicles. The place recognition is also considered for scene understanding and mapping. We introduce improving of feature descriptors, deformable part model as well hybrid boosting SVM and neural network. </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="color: #169179;"><strong><span style="color: #169179;">Development of an intelligent system for ambient understanding applied to autonomous navigation in outdoor environment.</span>  </strong></span></p>
-<p>This project proposes and studies a novel method that improves efficiency of scene understanding, which is useful for autonomous navigation, based on the multiple sensors-based. The method is expected to provide the better scene understanding, which then allows a robot to avoid obstacles in front of its navigation. The method consists of some stages. First, a path planning is investigated, which concerns about the findings of the efficient path to facilitate the autonomous driving. The second is referred to the problem of the motion estimation and the localization prediction of running vehicle. It is addressed based on applying the fusion of cameras, LRF and GPS devices. Our research proposes a new method that uses the minimal set of parameters consisting of the geometrical constraints for estimating the 3D motion of vehicle using cameras and LRF. The cumulative errors of visual odometry are excluded using the GPS-based correction relied on the maximum likelihood estimation in particle filter. The semantic of object classification and detection are also studied. The obstacle detection, place recognition techniques are used as a solution to assisting the autonomous driver. We focus on dealing with detecting obstacles that commonly occur such as pedestrians and vehicles. The place recognition is also considered for scene understanding and mapping. We introduce improving of feature descriptors, deformable part model as well hybrid boosting SVM and neural network. </p>
-
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://dunghvcs.github.io/media/posts/5//gallery/NF1.png" data-size="956x916"><img loading="lazy" src="https://dunghvcs.github.io/media/posts/5//gallery/NF1-thumbnail.png" alt="" width="720" height="690"></a></figure>
-<figure class="gallery__item"><a href="https://dunghvcs.github.io/media/posts/5//gallery/NF2.png" data-size="677x540"><img loading="lazy" src="https://dunghvcs.github.io/media/posts/5//gallery/NF2-thumbnail.png" alt="" width="677" height="540"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ACIIDS2017, Kanazawa, Japan</title>
-        <author>
-            <name>Van-Dung Hoang</name>
-        </author>
-        <link href="https://dunghvcs.github.io/aciids2017-kanazawa-japan.html"/>
-        <id>https://dunghvcs.github.io/aciids2017-kanazawa-japan.html</id>
-            <category term="Conference Events"/>
-
-        <updated>2026-02-13T09:29:56+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this conference was held during 3-5 April 2017 in Kaga, Japan. The aim of the conference is to provide an internationally respected forum for scientific research in the technologies and applications&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">ACIIDS is an international conference for researches in the filed of intelligent information and database systems. In this year, this conference was held during 3-5 April 2017 in Kaga, Japan. The aim of the conference is to provide an internationally respected forum for scientific research in the technologies and applications of intelligent information and database systems.</span></p>
-<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">Participant from ISLab is Dr. Van-Dung Hoang with a contribution "Boosting Discriminative Models for Activity Detection Using Local Feature Descriptors"</span></p>
-<p class="zfr3Q CDt4Ke " dir="ltr"><span class="C9DxTc ">Over all, everything is well organized.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://dunghvcs.github.io/media/posts/4/ACIIDS2017.jpg" alt="" width="1177" height="883" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dunghvcs.github.io/media/posts/4/responsive/ACIIDS2017-xs.jpg 640w ,https://dunghvcs.github.io/media/posts/4/responsive/ACIIDS2017-sm.jpg 768w ,https://dunghvcs.github.io/media/posts/4/responsive/ACIIDS2017-md.jpg 1024w ,https://dunghvcs.github.io/media/posts/4/responsive/ACIIDS2017-lg.jpg 1366w ,https://dunghvcs.github.io/media/posts/4/responsive/ACIIDS2017-xl.jpg 1600w ,https://dunghvcs.github.io/media/posts/4/responsive/ACIIDS2017-2xl.jpg 1920w"></figure>
             ]]>
         </content>
     </entry>
